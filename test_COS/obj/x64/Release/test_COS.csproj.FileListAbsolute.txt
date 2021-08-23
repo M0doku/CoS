@@ -1,0 +1,10 @@
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\bin\x64\Release\Cos.exe.config
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\bin\x64\Release\Cos.exe
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\bin\x64\Release\Cos.pdb
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\test_COS.Form1.resources
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\CoS.Properties.Resources.resources
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\test_COS.csproj.GenerateResource.cache
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\Cos.exe
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\Cos.pdb
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\test_COS.csproj.AssemblyReference.cache
+C:\Users\Modoku\Downloads\COS-0.1v\COS-0.1v\test_COS\obj\x64\Release\test_COS.csproj.CoreCompileInputs.cache
