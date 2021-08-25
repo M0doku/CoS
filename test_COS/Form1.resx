@@ -117,4 +117,2219 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Date5_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date8_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date4_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 275</value>
+  </data>
+  <data name="End_date.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;Date4_days.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="&gt;&gt;Date2_days_label.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Date4_days.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="&gt;&gt;Full_name.ZOrder" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <data name="Date5_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="textBox2.AccessibleDescription" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Date8_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 32</value>
+  </data>
+  <data name="&gt;&gt;Date1_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date6_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="&gt;&gt;Date4_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rus_key.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="&gt;&gt;Date2_months.Name" xml:space="preserve">
+    <value>Date2_months</value>
+  </data>
+  <data name="Date6_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date5_2.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="Date2_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date4_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Date5_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 335</value>
+  </data>
+  <data name="&gt;&gt;pics.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date7_months_label.Name" xml:space="preserve">
+    <value>Date7_months_label</value>
+  </data>
+  <data name="Date8_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Add_cells.Name" xml:space="preserve">
+    <value>Add_cells</value>
+  </data>
+  <data name="&gt;&gt;Date4_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Days_overall.Text" xml:space="preserve">
+    <value>Общее кол-во дней</value>
+  </data>
+  <data name="&gt;&gt;Date7_1.Name" xml:space="preserve">
+    <value>Date7_1</value>
+  </data>
+  <data name="Remove_cells.Location" type="System.Drawing.Point, System.Drawing">
+    <value>154, 542</value>
+  </data>
+  <data name="&gt;&gt;Date3_years_label.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="Date3_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 185</value>
+  </data>
+  <data name="Date7_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 425</value>
+  </data>
+  <data name="Date1_years.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="Date7_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date6_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Full_name.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>705, 100</value>
+  </data>
+  <data name="Date4_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="Date6_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 395</value>
+  </data>
+  <data name="&gt;&gt;Calculate.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Add_cells.Text" xml:space="preserve">
+    <value>Добавить поле</value>
+  </data>
+  <data name="rus_key.Location" type="System.Drawing.Point, System.Drawing">
+    <value>705, 533</value>
+  </data>
+  <data name="&gt;&gt;Calculate.ZOrder" xml:space="preserve">
+    <value>77</value>
+  </data>
+  <data name="Date3_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="&gt;&gt;Date8_1.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <data name="&gt;&gt;Date5_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date1_days.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date4_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 245</value>
+  </data>
+  <data name="Date8_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date6_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="Date6_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date1_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date3_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="Date5_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 335</value>
+  </data>
+  <data name="&gt;&gt;Date8_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date5_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date7_2.Name" xml:space="preserve">
+    <value>Date7_2</value>
+  </data>
+  <data name="&gt;&gt;Date6_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date3_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 215</value>
+  </data>
+  <data name="Date7_2.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="Date7_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date1_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 95</value>
+  </data>
+  <data name="Date2_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date3_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 215</value>
+  </data>
+  <data name="Date6_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 365</value>
+  </data>
+  <data name="&gt;&gt;Date1_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date8_years_label.Name" xml:space="preserve">
+    <value>Date8_years_label</value>
+  </data>
+  <data name="Date2_days.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="&gt;&gt;Date8_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date7_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date1_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date2_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date6_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date8_days.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;Date4_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 20</value>
+  </data>
+  <data name="&gt;&gt;Date8_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date8_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date7_days_label.Name" xml:space="preserve">
+    <value>Date7_days_label</value>
+  </data>
+  <data name="Date7_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date2_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date8_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 485</value>
+  </data>
+  <data name="&gt;&gt;Date5_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date5_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="Date1_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="&gt;&gt;Date6_years.Name" xml:space="preserve">
+    <value>Date6_years</value>
+  </data>
+  <data name="&gt;&gt;Date7_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date5_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date5_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date3_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date2_1.ZOrder" xml:space="preserve">
+    <value>66</value>
+  </data>
+  <data name="Date4_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;Date5_days_label.Name" xml:space="preserve">
+    <value>Date5_days_label</value>
+  </data>
+  <data name="Date7_months.TabIndex" type="System.Int32, mscorlib">
+    <value>70</value>
+  </data>
+  <data name="&gt;&gt;Date8_months_label.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Date8_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Start_date.Text" xml:space="preserve">
+    <value>Дата приема на работу</value>
+  </data>
+  <data name="Date1_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date8_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Start_date.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;Date2_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date2_months_label.Name" xml:space="preserve">
+    <value>Date2_months_label</value>
+  </data>
+  <data name="&gt;&gt;Date2_2.ZOrder" xml:space="preserve">
+    <value>65</value>
+  </data>
+  <data name="Date7_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 455</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>541, 42</value>
+  </data>
+  <data name="&gt;&gt;Date8_months.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Date1_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="Date6_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>67</value>
+  </data>
+  <data name="&gt;&gt;Date2_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Months.Name" xml:space="preserve">
+    <value>Months</value>
+  </data>
+  <data name="Date5_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="&gt;&gt;Date6_days_label.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="Add_cells.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 542</value>
+  </data>
+  <data name="Date3_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Full_name.Text" xml:space="preserve">
+    <value>ФИО</value>
+  </data>
+  <data name="Date6_days.TabIndex" type="System.Int32, mscorlib">
+    <value>65</value>
+  </data>
+  <data name="Date5_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="Date8_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date2_years.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="&gt;&gt;End_date.Name" xml:space="preserve">
+    <value>End_date</value>
+  </data>
+  <data name="&gt;&gt;Date2_years_label.Name" xml:space="preserve">
+    <value>Date2_years_label</value>
+  </data>
+  <data name="Date3_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date7_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="Date2_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date3_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date7_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 455</value>
+  </data>
+  <data name="&gt;&gt;Remove_cells.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date5_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 215</value>
+  </data>
+  <data name="Date8_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_years_label.Name" xml:space="preserve">
+    <value>Date1_years_label</value>
+  </data>
+  <data name="Date8_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="Date5_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 335</value>
+  </data>
+  <data name="&gt;&gt;Add_cells.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Years_label.Name" xml:space="preserve">
+    <value>Years_label</value>
+  </data>
+  <data name="Date8_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="&gt;&gt;Date8_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Date5_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date4_1.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;Date6_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date7_years_label.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="Date8_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 515</value>
+  </data>
+  <data name="Date5_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 94</value>
+  </data>
+  <data name="Date1_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="&gt;&gt;Date5_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date5_years.Name" xml:space="preserve">
+    <value>Date5_years</value>
+  </data>
+  <data name="Date8_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 515</value>
+  </data>
+  <data name="&gt;&gt;Date7_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Start_date.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date2_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date7_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="Date1_1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Date8_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date2_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="Full_name.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date1_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="Date6_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>66</value>
+  </data>
+  <data name="Date4_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Date4_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Days.ZOrder" xml:space="preserve">
+    <value>74</value>
+  </data>
+  <data name="&gt;&gt;Date5_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date4_months_label.Name" xml:space="preserve">
+    <value>Date4_months_label</value>
+  </data>
+  <data name="&gt;&gt;Date7_years_label.Name" xml:space="preserve">
+    <value>Date7_years_label</value>
+  </data>
+  <data name="Date3_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Remove_cells.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date6_years_label.Name" xml:space="preserve">
+    <value>Date6_years_label</value>
+  </data>
+  <data name="&gt;&gt;Date7_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="&gt;&gt;Date5_2.ZOrder" xml:space="preserve">
+    <value>59</value>
+  </data>
+  <data name="Date4_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date7_years.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;Date7_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date4_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="Start_date.Size" type="System.Drawing.Size, System.Drawing">
+    <value>215, 25</value>
+  </data>
+  <data name="Date5_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date7_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 455</value>
+  </data>
+  <data name="Years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="Date1_months.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date8_1.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="Months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="Date2_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="&gt;&gt;Months.ZOrder" xml:space="preserve">
+    <value>75</value>
+  </data>
+  <data name="&gt;&gt;Years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date4_2.Name" xml:space="preserve">
+    <value>Date4_2</value>
+  </data>
+  <data name="Date4_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 275</value>
+  </data>
+  <data name="Days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="&gt;&gt;Date3_days.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;Date2_months.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="Date2_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date5_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date8_years.Name" xml:space="preserve">
+    <value>Date8_years</value>
+  </data>
+  <data name="Date6_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Date3_1.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="End_date.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 9</value>
+  </data>
+  <data name="Date6_months.TabIndex" type="System.Int32, mscorlib">
+    <value>64</value>
+  </data>
+  <data name="&gt;&gt;Date5_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date5_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Days_overall.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date6_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>CoS(Расчет трудового стажа)</value>
+  </data>
+  <data name="Months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 25</value>
+  </data>
+  <data name="&gt;&gt;Date7_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date6_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_days.ZOrder" xml:space="preserve">
+    <value>45</value>
+  </data>
+  <data name="&gt;&gt;Date8_1.Name" xml:space="preserve">
+    <value>Date8_1</value>
+  </data>
+  <data name="&gt;&gt;Date2_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Start_date.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="End_date.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;Date8_months.Name" xml:space="preserve">
+    <value>Date8_months</value>
+  </data>
+  <data name="&gt;&gt;Date4_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_months.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;Date3_years_label.Name" xml:space="preserve">
+    <value>Date3_years_label</value>
+  </data>
+  <data name="&gt;&gt;pics.Name" xml:space="preserve">
+    <value>pics</value>
+  </data>
+  <data name="Date6_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date4_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>55</value>
+  </data>
+  <data name="&gt;&gt;Date6_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date7_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date2_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="Start_date.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 9</value>
+  </data>
+  <data name="&gt;&gt;Date8_2.Name" xml:space="preserve">
+    <value>Date8_2</value>
+  </data>
+  <data name="Date3_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="Date6_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Full_name.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="Date1_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 95</value>
+  </data>
+  <data name="Date6_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 395</value>
+  </data>
+  <data name="Date4_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date3_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="Date2_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>756, 533</value>
+  </data>
+  <data name="Date5_days.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="&gt;&gt;Date2_years.Name" xml:space="preserve">
+    <value>Date2_years</value>
+  </data>
+  <data name="Date6_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 395</value>
+  </data>
+  <data name="Date7_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Calculate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>610, 247</value>
+  </data>
+  <data name="&gt;&gt;Date1_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date8_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date4_years.TabIndex" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;Date4_months.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;Date5_months.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;Date3_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 155</value>
+  </data>
+  <data name="Date6_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date3_months.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="Date2_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="&gt;&gt;Days_overall.Name" xml:space="preserve">
+    <value>Days_overall</value>
+  </data>
+  <data name="Date6_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 395</value>
+  </data>
+  <data name="Date7_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date4_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 245</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>51</value>
+  </data>
+  <data name="Remove_cells.Text" xml:space="preserve">
+    <value>Удалить поле</value>
+  </data>
+  <data name="Date4_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date5_years_label.Name" xml:space="preserve">
+    <value>Date5_years_label</value>
+  </data>
+  <data name="Date6_years.TabIndex" type="System.Int32, mscorlib">
+    <value>63</value>
+  </data>
+  <data name="Date8_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date3_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="&gt;&gt;Date5_days.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;Date4_days.Name" xml:space="preserve">
+    <value>Date4_days</value>
+  </data>
+  <data name="Date6_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date4_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date2_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="&gt;&gt;Date2_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date8_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date2_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 125</value>
+  </data>
+  <data name="&gt;&gt;Date6_years.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date6_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date2_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Days_label.ZOrder" xml:space="preserve">
+    <value>71</value>
+  </data>
+  <data name="&gt;&gt;Date3_months_label.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="Date1_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date6_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date1_days.Name" xml:space="preserve">
+    <value>Date1_days</value>
+  </data>
+  <data name="Date2_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Days.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="Date6_1.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;Date2_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date4_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date8_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Months.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="Date4_2.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="Date8_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="Days_overall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>575, 158</value>
+  </data>
+  <data name="Date8_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="Date5_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 25</value>
+  </data>
+  <data name="&gt;&gt;Date6_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date3_1.Name" xml:space="preserve">
+    <value>Date3_1</value>
+  </data>
+  <data name="Date6_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="Date8_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="&gt;&gt;Date2_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date2_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date6_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date5_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date3_days_label.Name" xml:space="preserve">
+    <value>Date3_days_label</value>
+  </data>
+  <data name="&gt;&gt;Date2_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date8_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="Date7_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date8_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 515</value>
+  </data>
+  <data name="Date5_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 335</value>
+  </data>
+  <data name="Date2_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="&gt;&gt;Date1_1.Name" xml:space="preserve">
+    <value>Date1_1</value>
+  </data>
+  <data name="&gt;&gt;Date8_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date4_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_years.ZOrder" xml:space="preserve">
+    <value>47</value>
+  </data>
+  <data name="&gt;&gt;Date5_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date7_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date7_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date5_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;Date5_1.Name" xml:space="preserve">
+    <value>Date5_1</value>
+  </data>
+  <data name="&gt;&gt;Date3_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date6_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date1_2.Name" xml:space="preserve">
+    <value>Date1_2</value>
+  </data>
+  <data name="&gt;&gt;Months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date8_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date5_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date5_years_label.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="Date1_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 94</value>
+  </data>
+  <data name="&gt;&gt;Date5_2.Name" xml:space="preserve">
+    <value>Date5_2</value>
+  </data>
+  <data name="&gt;&gt;Date3_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date1_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>48</value>
+  </data>
+  <data name="Date3_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date3_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Days_overall.ZOrder" xml:space="preserve">
+    <value>70</value>
+  </data>
+  <data name="&gt;&gt;Date1_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date3_2.Name" xml:space="preserve">
+    <value>Date3_2</value>
+  </data>
+  <data name="Date5_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="Date8_years.TabIndex" type="System.Int32, mscorlib">
+    <value>75</value>
+  </data>
+  <data name="&gt;&gt;Date3_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date4_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 275</value>
+  </data>
+  <data name="&gt;&gt;Date6_days.Name" xml:space="preserve">
+    <value>Date6_days</value>
+  </data>
+  <data name="Date7_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Start_date.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;Date4_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date6_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 25</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>601, 182</value>
+  </data>
+  <data name="&gt;&gt;Date7_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_2.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;Date5_months_label.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="textBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>216, 20</value>
+  </data>
+  <data name="&gt;&gt;Add_cells.ZOrder" xml:space="preserve">
+    <value>67</value>
+  </data>
+  <data name="&gt;&gt;Date5_years.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="Date2_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date3_months.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="Date4_months.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="&gt;&gt;Date3_years.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="Date5_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date4_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
+  </data>
+  <data name="&gt;&gt;Date1_years.Name" xml:space="preserve">
+    <value>Date1_years</value>
+  </data>
+  <data name="&gt;&gt;Date4_years_label.Name" xml:space="preserve">
+    <value>Date4_years_label</value>
+  </data>
+  <data name="&gt;&gt;Date3_years.Name" xml:space="preserve">
+    <value>Date3_years</value>
+  </data>
+  <data name="Date5_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="Date2_1.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;Date4_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date5_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date3_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 215</value>
+  </data>
+  <data name="Date7_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>72</value>
+  </data>
+  <data name="&gt;&gt;Date2_years.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="Date7_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date7_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date8_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="Date4_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_months_label.Name" xml:space="preserve">
+    <value>Date1_months_label</value>
+  </data>
+  <data name="&gt;&gt;Date6_years_label.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;rus_key.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date5_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Full_name.Location" type="System.Drawing.Point, System.Drawing">
+    <value>622, 14</value>
+  </data>
+  <data name="Date5_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 335</value>
+  </data>
+  <data name="Date8_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date7_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date7_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date1_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="&gt;&gt;Date3_1.ZOrder" xml:space="preserve">
+    <value>64</value>
+  </data>
+  <data name="Date5_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="Date6_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 365</value>
+  </data>
+  <data name="Date8_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>78</value>
+  </data>
+  <data name="Date3_years.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="Date4_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date4_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date4_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 275</value>
+  </data>
+  <data name="Date6_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 395</value>
+  </data>
+  <data name="&gt;&gt;Date4_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Calculate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="Date3_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 20</value>
+  </data>
+  <data name="&gt;&gt;Date3_days.Name" xml:space="preserve">
+    <value>Date3_days</value>
+  </data>
+  <data name="Date8_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="pics.ImageSize" type="System.Drawing.Size, System.Drawing">
+    <value>16, 16</value>
+  </data>
+  <data name="Date3_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="&gt;&gt;Date7_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date4_1.ZOrder" xml:space="preserve">
+    <value>62</value>
+  </data>
+  <data name="Date5_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="&gt;&gt;Date7_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date2_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date2_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date3_2.ZOrder" xml:space="preserve">
+    <value>63</value>
+  </data>
+  <data name="&gt;&gt;Months_label.ZOrder" xml:space="preserve">
+    <value>72</value>
+  </data>
+  <data name="Date6_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="&gt;&gt;rus_key.ZOrder" xml:space="preserve">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;Date4_2.ZOrder" xml:space="preserve">
+    <value>61</value>
+  </data>
+  <data name="&gt;&gt;Date2_days.Name" xml:space="preserve">
+    <value>Date2_days</value>
+  </data>
+  <data name="Date1_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date6_2.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="Date7_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date4_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 275</value>
+  </data>
+  <data name="&gt;&gt;Date1_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="rus_key.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        xAAADsQBlSsOGwAAAEBJREFUSEtj+E9jMGoBQTBqAUHAwGC5jLYInU91hM6nOkLnUx2h86mO0PlUR+h8
+        qqOr2nI0RaMWEESjFhBA2nIAEqla/euN6ZwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="&gt;&gt;Date2_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date6_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date7_1.ZOrder" xml:space="preserve">
+    <value>56</value>
+  </data>
+  <data name="Date3_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 215</value>
+  </data>
+  <data name="&gt;&gt;Days_label.Name" xml:space="preserve">
+    <value>Days_label</value>
+  </data>
+  <data name="Date7_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="&gt;&gt;Date4_months.Name" xml:space="preserve">
+    <value>Date4_months</value>
+  </data>
+  <data name="Date3_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="Date7_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 455</value>
+  </data>
+  <data name="Date7_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Date6_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="Days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;Date1_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date1_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date1_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date7_2.ZOrder" xml:space="preserve">
+    <value>55</value>
+  </data>
+  <data name="Start_date.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="&gt;&gt;Date7_days.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="Years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 20</value>
+  </data>
+  <data name="&gt;&gt;Date6_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date4_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date3_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date6_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 395</value>
+  </data>
+  <data name="&gt;&gt;Date1_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date2_months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date4_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date1_days_label.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <data name="&gt;&gt;Date5_months_label.Name" xml:space="preserve">
+    <value>Date5_months_label</value>
+  </data>
+  <data name="&gt;&gt;Date4_months_label.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;Date8_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Calculate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date6_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="&gt;&gt;Date3_months.Name" xml:space="preserve">
+    <value>Date3_months</value>
+  </data>
+  <data name="Years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>552, 100</value>
+  </data>
+  <data name="Date6_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;Date4_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date7_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date7_months.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;Months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date7_days_label.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date5_months.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="Date2_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="&gt;&gt;Date8_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date4_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="End_date.Text" xml:space="preserve">
+    <value>Дата увольнения</value>
+  </data>
+  <data name="Date4_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 275</value>
+  </data>
+  <data name="&gt;&gt;Date3_days_label.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="Date8_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Calculate.Name" xml:space="preserve">
+    <value>Calculate</value>
+  </data>
+  <data name="&gt;&gt;Date6_months.Name" xml:space="preserve">
+    <value>Date6_months</value>
+  </data>
+  <data name="Years.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="Date5_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="Date2_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 125</value>
+  </data>
+  <data name="&gt;&gt;Date3_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date3_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date7_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="&gt;&gt;Full_name.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Days_overall.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox2.AccessibleName" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Date5_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date7_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="Date4_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date6_1.ZOrder" xml:space="preserve">
+    <value>58</value>
+  </data>
+  <data name="&gt;&gt;Years.ZOrder" xml:space="preserve">
+    <value>76</value>
+  </data>
+  <data name="Date7_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>696, 72</value>
+  </data>
+  <data name="Date6_days.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date2_days_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 155</value>
+  </data>
+  <data name="&gt;&gt;Days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date2_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="Date7_months_label.TabIndex" type="System.Int32, mscorlib">
+    <value>73</value>
+  </data>
+  <data name="Date6_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date1_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 65</value>
+  </data>
+  <data name="&gt;&gt;Date3_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date5_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 305</value>
+  </data>
+  <data name="Date3_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="&gt;&gt;Date8_years.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;Date1_months_label.ZOrder" xml:space="preserve">
+    <value>43</value>
+  </data>
+  <data name="Date2_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date4_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date8_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Days_overall.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date5_days.Name" xml:space="preserve">
+    <value>Date5_days</value>
+  </data>
+  <data name="&gt;&gt;Date4_1.Name" xml:space="preserve">
+    <value>Date4_1</value>
+  </data>
+  <data name="&gt;&gt;Date4_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Months_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_2.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="Date2_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="Date2_months.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date8_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date7_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date3_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date6_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>68</value>
+  </data>
+  <data name="&gt;&gt;Date2_years_label.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="End_date.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date6_months_label.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="Date4_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="&gt;&gt;Add_cells.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date4_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="Date3_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date5_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;rus_key.Name" xml:space="preserve">
+    <value>rus_key</value>
+  </data>
+  <data name="&gt;&gt;Date7_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date6_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date6_days_label.Name" xml:space="preserve">
+    <value>Date6_days_label</value>
+  </data>
+  <data name="&gt;&gt;Date2_months.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date6_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date3_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 577</value>
+  </data>
+  <data name="&gt;&gt;Date4_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="Date5_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 95</value>
+  </data>
+  <data name="Add_cells.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 23</value>
+  </data>
+  <data name="Date8_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Date8_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 515</value>
+  </data>
+  <data name="Add_cells.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;Date6_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date8_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date3_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 185</value>
+  </data>
+  <data name="Date3_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Date7_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 425</value>
+  </data>
+  <data name="Date2_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 155</value>
+  </data>
+  <data name="&gt;&gt;Date6_months.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="Date5_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date5_years.TabIndex" type="System.Int32, mscorlib">
+    <value>57</value>
+  </data>
+  <data name="Date3_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date7_months_label.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;Remove_cells.Name" xml:space="preserve">
+    <value>Remove_cells</value>
+  </data>
+  <data name="Months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>627, 100</value>
+  </data>
+  <data name="&gt;&gt;Start_date.ZOrder" xml:space="preserve">
+    <value>69</value>
+  </data>
+  <data name="&gt;&gt;Date7_months.Name" xml:space="preserve">
+    <value>Date7_months</value>
+  </data>
+  <data name="&gt;&gt;rus_key.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date7_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>74</value>
+  </data>
+  <data name="&gt;&gt;Date1_years_label.ZOrder" xml:space="preserve">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;Date4_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_days.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="Date8_2.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="&gt;&gt;Remove_cells.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date6_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date1_1.ZOrder" xml:space="preserve">
+    <value>80</value>
+  </data>
+  <data name="Date2_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="&gt;&gt;Date2_days.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="&gt;&gt;Date1_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date1_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date1_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date7_days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date2_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date8_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date1_2.ZOrder" xml:space="preserve">
+    <value>79</value>
+  </data>
+  <data name="&gt;&gt;Date7_days.Name" xml:space="preserve">
+    <value>Date7_days</value>
+  </data>
+  <data name="&gt;&gt;Date8_days_label.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Days.Name" xml:space="preserve">
+    <value>Days</value>
+  </data>
+  <data name="&gt;&gt;Date2_days_label.Name" xml:space="preserve">
+    <value>Date2_days_label</value>
+  </data>
+  <data name="Date7_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Full_name.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 25</value>
+  </data>
+  <data name="rus_key.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 32</value>
+  </data>
+  <data name="Date7_years.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date8_days_label.Name" xml:space="preserve">
+    <value>Date8_days_label</value>
+  </data>
+  <data name="Date5_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date2_years_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date3_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date6_days.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="Date5_1.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;Years_label.ZOrder" xml:space="preserve">
+    <value>73</value>
+  </data>
+  <data name="&gt;&gt;Date1_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date5_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="Date4_months.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date5_days_label.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;Months_label.Name" xml:space="preserve">
+    <value>Months_label</value>
+  </data>
+  <data name="Date3_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;Date6_years.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date3_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date7_months_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date1_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Remove_cells.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="Date2_months.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 155</value>
+  </data>
+  <data name="&gt;&gt;Date3_months_label.Name" xml:space="preserve">
+    <value>Date3_months_label</value>
+  </data>
+  <data name="Date3_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="Date7_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 455</value>
+  </data>
+  <data name="Date1_years_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAIAAAD4YuoOAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        xAAADsQBlSsOGwAAANpJREFUOE/tlMEVgkAQQ7EDWrAB+rILS7AYi7AJD/agz+dJs8T3WSKCF27m5TA7
+        yUwOu9Cc2u5ZYbPdTVKSnHDeiVlFUx9AzIhq2oY5DGI/mtsaCfvDUVUIQgzbgC1UDK6F6+0hqQSY8zEq
+        LGGgj+Ra8GpzCDC/xQhuhhTHerVZ7uBHsL3euIjyilblP2CR619yvKp3uwe79Pg40vSDNty8ny+qY+EQ
+        YKvBFt41TST3F2NKgGWD+fhkkDDU6kzMcAdMfn6NIgZsYRAnY0Z/08nVJjbMYYCjmLZ7AQnGLkz3etP+
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;Date8_months_label.Name" xml:space="preserve">
+    <value>Date8_months_label</value>
+  </data>
+  <data name="Date1_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="Date8_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 515</value>
+  </data>
+  <data name="&gt;&gt;Years.Name" xml:space="preserve">
+    <value>Years</value>
+  </data>
+  <data name="Date3_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Days_overall.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="Date7_days.TabIndex" type="System.Int32, mscorlib">
+    <value>71</value>
+  </data>
+  <data name="Date8_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date2_1.Name" xml:space="preserve">
+    <value>Date2_1</value>
+  </data>
+  <data name="Date3_years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 215</value>
+  </data>
+  <data name="&gt;&gt;Date4_days_label.Name" xml:space="preserve">
+    <value>Date4_days_label</value>
+  </data>
+  <data name="Date7_years.TabIndex" type="System.Int32, mscorlib">
+    <value>69</value>
+  </data>
+  <data name="&gt;&gt;Date5_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date8_days.TabIndex" type="System.Int32, mscorlib">
+    <value>77</value>
+  </data>
+  <data name="&gt;&gt;Date6_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date7_days.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 20</value>
+  </data>
+  <data name="&gt;&gt;Date6_1.Name" xml:space="preserve">
+    <value>Date6_1</value>
+  </data>
+  <data name="&gt;&gt;Start_date.Name" xml:space="preserve">
+    <value>Start_date</value>
+  </data>
+  <data name="Months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>600, 72</value>
+  </data>
+  <data name="Date2_months_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="&gt;&gt;Date4_days_label.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;Date2_2.Name" xml:space="preserve">
+    <value>Date2_2</value>
+  </data>
+  <data name="Date7_days_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="Date6_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date5_days_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Date3_days.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Days_overall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 21</value>
+  </data>
+  <data name="Date8_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="Date1_months_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 95</value>
+  </data>
+  <data name="Remove_cells.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 23</value>
+  </data>
+  <data name="Date2_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 155</value>
+  </data>
+  <data name="Date6_months_label.Text" xml:space="preserve">
+    <value>Месяцев</value>
+  </data>
+  <data name="&gt;&gt;Date6_2.Name" xml:space="preserve">
+    <value>Date6_2</value>
+  </data>
+  <data name="Date8_days_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="Date5_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 335</value>
+  </data>
+  <data name="&gt;&gt;Days_overall.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;Date3_years_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date6_1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date1_months.ZOrder" xml:space="preserve">
+    <value>46</value>
+  </data>
+  <data name="&gt;&gt;Date3_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;End_date.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="End_date.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 25</value>
+  </data>
+  <data name="&gt;&gt;Date6_2.ZOrder" xml:space="preserve">
+    <value>57</value>
+  </data>
+  <data name="Years_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>547, 72</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="Date3_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date1_years_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 21</value>
+  </data>
+  <data name="&gt;&gt;Remove_cells.ZOrder" xml:space="preserve">
+    <value>52</value>
+  </data>
+  <data name="&gt;&gt;Date4_years.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="&gt;&gt;Date1_days_label.Name" xml:space="preserve">
+    <value>Date1_days_label</value>
+  </data>
+  <data name="&gt;&gt;Date5_months.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date8_months.TabIndex" type="System.Int32, mscorlib">
+    <value>76</value>
+  </data>
+  <data name="&gt;&gt;Date4_years.Name" xml:space="preserve">
+    <value>Date4_years</value>
+  </data>
+  <data name="&gt;&gt;Date8_2.ZOrder" xml:space="preserve">
+    <value>53</value>
+  </data>
+  <data name="&gt;&gt;Days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date5_years_label.TabIndex" type="System.Int32, mscorlib">
+    <value>60</value>
+  </data>
+  <data name="&gt;&gt;Date1_months.Name" xml:space="preserve">
+    <value>Date1_months</value>
+  </data>
+  <data name="&gt;&gt;Date8_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date4_years_label.Text" xml:space="preserve">
+    <value>Лет</value>
+  </data>
+  <data name="Date2_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;Date7_years.Name" xml:space="preserve">
+    <value>Date7_years</value>
+  </data>
+  <data name="&gt;&gt;Full_name.Name" xml:space="preserve">
+    <value>Full_name</value>
+  </data>
+  <data name="&gt;&gt;Days_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date8_days.Name" xml:space="preserve">
+    <value>Date8_days</value>
+  </data>
+  <data name="Date1_years_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date6_years_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date5_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date5_days_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Date4_months_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="&gt;&gt;End_date.ZOrder" xml:space="preserve">
+    <value>68</value>
+  </data>
+  <data name="Date8_days_label.TabIndex" type="System.Int32, mscorlib">
+    <value>80</value>
+  </data>
+  <data name="Date4_days_label.Text" xml:space="preserve">
+    <value>Дней</value>
+  </data>
+  <data name="&gt;&gt;Date3_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date7_1.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>78</value>
+  </data>
+  <data name="Calculate.Text" xml:space="preserve">
+    <value>Рассчитать</value>
+  </data>
+  <data name="Date4_days_label.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Date2_months_label.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;Date5_1.ZOrder" xml:space="preserve">
+    <value>60</value>
+  </data>
+  <data name="Date4_2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Date3_months_label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Date8_years_label.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Date4_years_label.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;Date5_months.Name" xml:space="preserve">
+    <value>Date5_months</value>
+  </data>
+  <data name="Date4_months_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 21</value>
+  </data>
+  <data name="&gt;&gt;Date3_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date8_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 515</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Date1_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 65</value>
+  </data>
+  <data name="Date5_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 305</value>
+  </data>
+  <data name="Date7_years.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;End_date.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date4_years.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Date8_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Calculate.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Date7_days.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 455</value>
+  </data>
+  <data name="Date4_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 20</value>
+  </data>
+  <data name="Full_name.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;Date2_days.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Date2_years.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 155</value>
+  </data>
+  <data name="Date8_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 485</value>
+  </data>
+  <data name="&gt;&gt;Date6_months_label.Name" xml:space="preserve">
+    <value>Date6_months_label</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="pics.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>
