@@ -1,7 +1,6 @@
 # Calc of Seniority | Расчет трудового стажа
 ![release pic_CoS](https://user-images.githubusercontent.com/88943677/175712816-8e02edd2-67c6-4e48-818c-a9384512b58d.png)
 CoS - Программа для расчета стажа.
--
 Как пользоваться?
 ![release pic_CoS_help](https://user-images.githubusercontent.com/88943677/175720599-0284df69-43a7-498f-ab28-87aa12db42f3.png)
 1. Для начала выберите даты приема сотрудника на работу и его увольнения. Если дат несколько, добавьте еще поля кнопкой "Добавить поле".
