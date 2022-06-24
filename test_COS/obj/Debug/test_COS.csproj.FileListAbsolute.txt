@@ -57,3 +57,4 @@ C:\Users\Modoku\Desktop\progs\source\repos\COS\COS\test_COS\obj\Debug\CoS.applic
 C:\Users\Modoku\Desktop\progs\source\repos\COS\COS\test_COS\obj\Debug\test_COS.csproj.CopyComplete
 C:\Users\Modoku\Desktop\progs\source\repos\COS\COS\test_COS\obj\Debug\CoS.exe
 C:\Users\Modoku\Desktop\progs\source\repos\COS\COS\test_COS\obj\Debug\CoS.pdb
+C:\Users\Modoku\source\repos\COS\CoS\test_COS\obj\Debug\test_COS.csproj.SuggestedBindingRedirects.cache
