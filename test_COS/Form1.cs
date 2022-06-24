@@ -959,7 +959,9 @@ namespace test_COS
 
         private void button1_Click_2(object sender, EventArgs e)
         {
+            open_excel.FileName = "";
             open_excel.ShowDialog();
+           
         }
         
         private void open_excel_FileOk(object sender, CancelEventArgs e)
